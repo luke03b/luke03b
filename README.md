@@ -30,11 +30,26 @@ Appassionato di Software Engineering, amo costruire architetture solide e applic
 * Implementa meccanismi avanzati di sincronizzazione e gestione della concorrenza tramite *mutex*.
 
 ## 🛠️ Tecnologie e Competenze
-Dalle esperienze maturate durante il mio percorso universitario, ho consolidato competenze in:
-* **Linguaggi:** Java, Dart, TypeScript, C, C++, Python.
-* **Framework & Tool:** Flutter, Spring Boot, FastAPI, Node.js.
-* **Database:** PostgreSQL (con supporto spaziale PostGIS).
-* **DevOps & Ingegneria del software:** Docker, GitHub Actions (CI/CD), SonarQube, Maven, dipendenze automatizzate con Dependabot.
+
+Dai miei progetti universitari e personali, ho consolidato competenze pratiche in diverse tecnologie:
+
+**Linguaggi di Programmazione**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Sviluppo & Framework**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Database & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## Contatti
 * **Email:** lucabuonomo@hotmail.com
