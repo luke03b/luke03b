@@ -1,10 +1,10 @@
-# Ciao, sono Luca Buonomo! 👋
+# Ciao, sono Luca Buonomo!
 
 🎓 **Neolaureato in Informatica (Laurea Triennale L-31)** presso l'**Università degli Studi di Napoli Federico II** con votazione **105/110**.
 
 Appassionato di Software Engineering, amo costruire architetture solide e applicazioni complete, muovendomi con disinvoltura dallo sviluppo frontend mobile/web alla progettazione di backend e database. 
 
-## 🚀 I Miei Progetti Principali
+## I Miei Progetti Principali
 
 🌱 **[EcoFlora (CitizenScience)](https://github.com/luke03b/CitizenScience)**
 *Un'applicazione multi-container per la registrazione e l'identificazione di fiori selvatici sul campo*.
@@ -36,7 +36,7 @@ Dalle esperienze maturate durante il mio percorso universitario, ho consolidato 
 * **Database:** PostgreSQL (con supporto spaziale PostGIS).
 * **DevOps & Ingegneria del software:** Docker, GitHub Actions (CI/CD), SonarQube, Maven, dipendenze automatizzate con Dependabot.
 
-## 📫 Contatti
+## Contatti
 * **Email:** lucabuonomo@hotmail.com
 
 <!--
